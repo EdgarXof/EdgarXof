@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdgarXof
-- 👀 I’m interested in all things new.
+- 👀 I’m interested in all new things.
 - 🌱 I’m currently learning general development.
 - 📫 How to reach me EdgarAlves@outlook.fr
 
