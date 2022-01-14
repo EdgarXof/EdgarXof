@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdgarXof
 - 👀 I’m interested in all new things.
-- 🌱 I’m currently learning general development.
+- 🌱 I’m currently learning Odoo13.
 - 📫 How to reach me EdgarAlves@outlook.fr
 
 <!---
